@@ -1,0 +1,13 @@
+C:\Users\Даниил\source\repos\Exam19\Exam19\bin\Debug\netcoreapp3.1\Exam19.exe
+C:\Users\Даниил\source\repos\Exam19\Exam19\bin\Debug\netcoreapp3.1\Exam19.deps.json
+C:\Users\Даниил\source\repos\Exam19\Exam19\bin\Debug\netcoreapp3.1\Exam19.runtimeconfig.json
+C:\Users\Даниил\source\repos\Exam19\Exam19\bin\Debug\netcoreapp3.1\Exam19.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\Exam19\Exam19\bin\Debug\netcoreapp3.1\Exam19.dll
+C:\Users\Даниил\source\repos\Exam19\Exam19\bin\Debug\netcoreapp3.1\Exam19.pdb
+C:\Users\Даниил\source\repos\Exam19\Exam19\obj\Debug\netcoreapp3.1\Exam19.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\Exam19\Exam19\obj\Debug\netcoreapp3.1\Exam19.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\Exam19\Exam19\obj\Debug\netcoreapp3.1\Exam19.AssemblyInfo.cs
+C:\Users\Даниил\source\repos\Exam19\Exam19\obj\Debug\netcoreapp3.1\Exam19.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\Exam19\Exam19\obj\Debug\netcoreapp3.1\Exam19.dll
+C:\Users\Даниил\source\repos\Exam19\Exam19\obj\Debug\netcoreapp3.1\Exam19.pdb
+C:\Users\Даниил\source\repos\Exam19\Exam19\obj\Debug\netcoreapp3.1\Exam19.genruntimeconfig.cache
